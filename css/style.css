@@ -1,0 +1,172 @@
+.titulo {
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; font-weight: 300; font-size: 600%; display: block; float: none;
+    margin-bottom: 0px; padding-bottom: 0px; border-bottom: 0px;
+    margin-top: 0px; padding-top: 0px; border-top: 0px;
+    text-align: center;
+    color: #b0840e;
+    vertical-align: middle;
+}
+
+.petit{
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; font-weight: 300; font-size: 200%; display: block; float: none;
+    margin-top: 0px; padding-top: 0px; border-top: 0px;
+    margin-bottom: 100px; padding-bottom: 100px; border-bottom: 0px;
+    text-align: center;
+    color: #b0840e;
+}
+
+.mini {
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; font-weight: 300; font-size: 300%; display: block; float: none;
+    margin-top: 0px; padding-top: 0px; border-top: 0px;
+    margin-bottom: 120px; padding-bottom: 10px; border-bottom: 0px;
+    text-align: center;
+    color: #000e29;
+}
+
+.navbar {
+    overflow: hidden;
+    color: white;
+    background-color: white;
+    border-top: 5px solid #000e29;
+    border-bottom: 5px solid #000e29;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; font-weight: 300; font-size: 300%;
+    text-align: center;
+}
+
+.navbar a{
+    background-color: white;
+    color: #000e29;
+    text-decoration: none;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.navbar a:hover{
+    background-color: #000e29;
+    color: white;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+#main {
+    margin-top: 90px;
+
+}
+.intro, .couleurs, .theme, .deco, .eclairage{
+    text-align: center;
+    margin-left: 90px;
+    margin-right: 90px;
+}
+
+.introPicture {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: auto;
+    width: 50%;
+}
+
+.introCaption {
+    text-align: center;
+    font-size: 80%;
+    padding-bottom: 4px;
+}
+
+.introBlock {
+    padding-top: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    padding-bottom: 50px;
+    border-radius: 3px;
+    display: block;
+    border-top: 2px solid #000e29;
+    border-bottom: 2px solid #000e29;
+    border-left: 2px solid #000e29;
+    border-right: 2px solid #000329;
+}
+
+p {
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    text-align: center;
+}
+
+.introIntro{
+
+}
+
+.introSub, .colorsTitle, .colorsSub, .themeSub, .decoSub, .decoTitle, .ilumTitle, .subFinal {
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+    color: #000e29;
+}
+
+.divisor {
+    color: #b0840e;
+}
+.themePicture {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: auto;
+    width: 95%;
+}
+
+.studioDecoPicture, .workstationPicture, .decoCieloPicture, .studioLightPicture, .spacelightPicture {
+    margin-left: 0px;
+    margin-right: 0px;
+    margin-top: auto;
+    width: 95%;
+}
+.nube, .luna {
+    overflow: hidden;
+    color: white;
+    background-color: white;
+    border-top: 3px solid #000e29;
+    border-bottom: 3px solid #000e29;
+    border-left: 3px solid #000e29;
+    border-right: 3px solid #000e29;
+    border-radius: 10px;
+    padding-top: 6px;
+    padding-bottom: 6px;
+    padding-left: 3px;
+    padding-right: 3px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; font-weight: 300; font-size: 100%;
+    text-align: center;
+}
+
+.nube a:hover, .luna a:hover {
+    background-color: #000e29;
+    color: white;
+    padding-left: 0%;
+    padding-right: 0%;
+    margin-left: 10px;
+}
+
+.nube a, .luna a {
+    background-color: white;
+    color: #000e29;
+    text-decoration: none;
+    padding-left: 0%;
+    padding-right: 0%;
+}
+
+.arriba {
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif; font-weight: 300; font-size: 100%;
+    text-align: center;
+}
+.arriba a {
+    background-color: white;
+    color: #000329;
+    padding-left: 0%;
+    padding-right: 0%;
+    text-decoration: none;
+}
+
+.arriba a:hover {
+    background-color: white;
+    color: #000329;
+    padding-left: 0%;
+    padding-right: 0%;
+    text-decoration: none;
+}
